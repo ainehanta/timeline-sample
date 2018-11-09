@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: bcdc818aca5d8e149bcc696266b475c8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Shower 1
+    100004: Shower_Base
+    100006: Shower_Head
+    100008: Tap_Base
+    100010: Tap_Base 1
+    100012: Tap_Cold
+    100014: Tap_Handle
+    100016: Tap_Handle 1
+    100018: Tap_Hot
+    400000: //RootNode
+    400002: Shower 1
+    400004: Shower_Base
+    400006: Shower_Head
+    400008: Tap_Base
+    400010: Tap_Base 1
+    400012: Tap_Cold
+    400014: Tap_Handle
+    400016: Tap_Handle 1
+    400018: Tap_Hot
+    2300000: //RootNode
+    2300002: Shower 1
+    2300004: Shower_Base
+    2300006: Shower_Head
+    2300008: Tap_Base
+    2300010: Tap_Base 1
+    2300012: Tap_Handle
+    2300014: Tap_Handle 1
+    3300000: //RootNode
+    3300002: Shower 1
+    3300004: Shower_Base
+    3300006: Shower_Head
+    3300008: Tap_Base
+    3300010: Tap_Base 1
+    3300012: Tap_Handle
+    3300014: Tap_Handle 1
+    4300000: Shower
+    4300002: Shower_Base
+    4300004: Shower_Head
+    4300006: Tap_Base
+    4300008: Tap_Handle
+    4300010: Tap_Base
+    4300012: Tap_Handle
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom_Tile_mtl
+    second: {fileID: 2100000, guid: d04c6e0c16f8776498af7683face6f4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower_Base_mtl
+    second: {fileID: 2100000, guid: a39786d067f60b949960222a4ca4c668, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower_Chrome_mtl
+    second: {fileID: 2100000, guid: 0a0fa7242c89a974eb2b3acbbcc824a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower_Head_mtl
+    second: {fileID: 2100000, guid: 6276a5422b05430428346b500ffc0412, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
